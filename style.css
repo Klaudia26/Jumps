@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    font-family: Verdana;
+    font-size: 17px;
+    color: white;
+}
+.jumpers{
+    text-align: center;
+}
+.jumpers img{
+    width: 100%;
+    height: auto;
+}
+.jumpers p{
+    margin-bottom: 30px;
+}
+h1{
+    font-size: 50px;
+}
+nav{
+    min-height: 57px;
+}
+.bg-jumpers{
+    background-color: #91a33b !important;
+}
